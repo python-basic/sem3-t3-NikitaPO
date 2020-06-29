@@ -1,5 +1,4 @@
 def search_str(what="", where=""):
-    # 1 - поиск первого вхождения подстроки
     flag = False
     i = 0
     while i < len(where):
